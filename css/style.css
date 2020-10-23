@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+img {
+  max-height: 200px;
+}
+
+.grey {
+  background-color: #f9f9f9;
+}
